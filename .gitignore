@@ -2,7 +2,8 @@
 bin-debug/
 bin-release/
 [Oo]bj/
-[Bb]in/
+[Bb]in
+node_modules
 
 # Other files and folders
 .settings/
