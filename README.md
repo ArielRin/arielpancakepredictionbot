@@ -28,22 +28,13 @@ Then run command prompt or powershell
 3. Account details
 4. Export Private Key.
 
-### ✔️ Sample ``.ENV`` file
-```
-# Your wallet private key. 
-PRIVATE_KEY="YOUR_PRIVATE_KEY_HERE"
-# The maximum bet amount you are willing to execute.
-BET_AMOUNT="0.1"
-# RPC is the default network for Ether transactions. For Binance Smart Chain, leave it as it is.
-RPC="https://bsc-dataseed.binance.org/"
-```
 
 #### 📢 Advice:
 - Run the bot with your wallet at a ratio of 10x the amount you choose to bet
 - Adjust the bot accordingly to bet with or against the majority.
 - When the chart swings, use the "--with" strategy.
-- When the chart trends sideways, use the default, against strategy. 
+- When the chart trends sideways, use the default, against strategy.
 - Always monitor & adjust the bot accordingly but allow room for error.
-- Consistent gains will be made by running smaller betting amounts over longer periods of time. 
-- Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit. 
+- Consistent gains will be made by running smaller betting amounts over longer periods of time.
+- Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit.
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
