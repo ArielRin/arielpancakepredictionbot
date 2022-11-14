@@ -1,8 +1,12 @@
 
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+Cant find the original Git Repo! Please thank the below team if found useful!!
+
 This bot wins the majority of rounds on PancakeSwap based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
 
-
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+🔍️
 ## 💡 Installation.
 
 Download & Install Node here :
