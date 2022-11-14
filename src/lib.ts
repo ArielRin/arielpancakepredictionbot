@@ -25,7 +25,7 @@ export const parseStrategy = (processArgv: string[]) => {
   if (strategy === STRATEGIES.Standard) {
     console.log(
     "\n Auto Prediction ArielRyns Bot\n",
-      
+
     );
   }
 
@@ -108,7 +108,7 @@ export const getClaimableEpochsCG = async (
 
 export const calculateRunTX = (amount: BigNumber | undefined) => {
   if (!amount || amount.div(50).lt(parseEther("0.01"))) {
-    return parseEther("0.01");
+    return parseEther("0.0012");
   }
 
   return amount.div(50);
